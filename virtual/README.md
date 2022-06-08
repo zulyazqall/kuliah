@@ -47,8 +47,9 @@ Silahkan memilih salah satu judul ini untuk projek akhir Anda, boleh sama akan t
 # Projek Akhir yang dikumpulkan
 >>> Source Code atau  link website
 >>> Dokumen Tulisan atau Video
->>> Paper dengan Format [ini](https://drive.google.com/file/d/1CigDo8ppGWoMIVyQRkFRbediKPCdeTZl/view) Seperti Jurnal BiTE
+>>> Paper dengan Format template Jurnal BiTE
 ```
+Download Template [disini](https://drive.google.com/file/d/1CigDo8ppGWoMIVyQRkFRbediKPCdeTZl/view)
 
 ## License
 
