@@ -14,7 +14,7 @@ Analisis Big Data yang perlu dipelajari.
 
 Teknologi yang digunakan dalam Big Data:
 
-- [Google Cloud](https://www.python.org/](https://cloud.google.com/) 
+- [Google Cloud](https://cloud.google.com/) 
 - [AWS](https://aws.amazon.com/)
 - [Digital Ocean](digitalocean.com) 
 
