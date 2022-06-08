@@ -14,7 +14,7 @@ Analisis Big Data yang perlu dipelajari.
 
 Teknologi yang digunakan dalam Big Data:
 
-- [Google Cloud]([https://www.python.org/](https://cloud.google.com/)) 
+- [Google Cloud](https://www.python.org/](https://cloud.google.com/) 
 - [AWS](https://aws.amazon.com/)
 - [Digital Ocean](digitalocean.com) 
 
@@ -28,7 +28,7 @@ Ada beberapa referensi yang digunakan dalam pembelajaran analisis big data
 | ------ | ------ |
 | Book | [Python for Data Analysis][BookA] |
 | Book | [BelajarPython][GHPy] |
-| Web Page | [Container dan Virtual Machine] [CoVM] |
+| Web Page | [Container dan Virtual Machine][CoVM] |
 
 ## Projek Akhir
 Silahkan memilih salah satu judul ini untuk projek akhir Anda, boleh sama akan tetapi objek harus berbeda
