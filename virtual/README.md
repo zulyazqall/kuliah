@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Analisis Big Data yang perlu dipelajari.
+Sistem dan Layanan Virtual yang perlu dipelajari.
 
 - Layanan Virtual
 - Sistem Operasi
@@ -26,8 +26,8 @@ Ada beberapa referensi yang digunakan dalam pembelajaran analisis big data
 
 | Reference | Link |
 | ------ | ------ |
-| Book | [Python for Data Analysis][BookA] |
-| Book | [BelajarPython][GHPy] |
+| Book | [Cloud Computing][BookA] |
+| Book | [Virtual][GHPy] |
 | Web Page | [Container dan Virtual Machine][CoVM] |
 
 ## Projek Akhir
