@@ -12,7 +12,7 @@ Sistem dan Layanan Virtual yang perlu dipelajari.
 
 ## Tech
 
-Teknologi yang digunakan dalam Big Data:
+Teknologi yang digunakan dalam Sistem dan Layanan Virtual:
 
 - [Google Cloud](https://cloud.google.com/) 
 - [AWS](https://aws.amazon.com/)
@@ -22,7 +22,7 @@ Teknologi yang digunakan dalam Big Data:
 
 ## Referensi
 
-Ada beberapa referensi yang digunakan dalam pembelajaran analisis big data
+Ada beberapa referensi yang digunakan dalam pembelajaran Sistem dan Layanan Virtual
 
 | Reference | Link |
 | ------ | ------ |
