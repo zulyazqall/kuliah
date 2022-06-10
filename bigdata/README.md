@@ -47,6 +47,30 @@ Ada beberapa referensi yang digunakan dalam pembelajaran analisis big data
 | Book | [Python for Data Analysis][BookA] |
 | GitHub | [BelajarPython][GHPy] |
 | Media kernel | [Slide Analisis Big Data][SABD] |
+| Repository | [UCI Repository][UCIR] |
+| Dataset | [Kaggle][kggl] |
+
+
+## Projek Akhir
+Silahkan memilih salah satu judul ini untuk projek akhir Anda, boleh sama akan tetapi objek harus berbeda atau algoritma
+- Implementasi Analisis Big Data dengan algoritma X (contoh C45, Naive Bayes dll) untuk akademik
+- Implementasi dan analisis kinerja HDFS sebagai infrastruktur pembangunan big data
+- Implementasi Big Data Rumah sakit menggunakan Hadoop untuk membangun data lake
+- Analisis Big Data pada Sosial Media (Twitter, Facebook, Instagram) untuk sentimen analisis dan lain-lain
+- Ide sendiri berkaitan dengan Big Data
+
+```sh
+# Caranya
+>>> Coding menggunakan Bahasa Pemrograman Python atau Java pada Hadoop
+>>> Repository atau data set bisa diambil dari UCI, Kaggle, any repo, atau sosial media
+>>> Jelaskan langkah-langkah bisa menggunakan Tulisan dan gambar atau Video
+
+# Projek Akhir yang dikumpulkan
+>>> Source Code 
+>>> Dokumen Tulisan atau Video
+>>> Paper dengan Format template Jurnal BiTE
+```
+Download Template [disini](https://drive.google.com/file/d/1CigDo8ppGWoMIVyQRkFRbediKPCdeTZl/view)
 
 ## License
 
@@ -64,4 +88,6 @@ MIT
    [bookA]: <https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf>
    [GHPy]: <https://github.com/zulyazqall/BelajarPython>
    [SABD]: <http://www.wantiknas.go.id/wantiknas-storage/file/img/materi/2020/April/16%20April%202020%20-%20Diskusi%20TIK%20Talk/Ismail%20Fahmi-PT%20Media%20Kernels-Analisis%20Big%20data-compressed.pdf>
+   [UCIR]: <https://archive.ics.uci.edu/ml/index.php>
+   [Kggl]: <https://www.kaggle.com/>
 
